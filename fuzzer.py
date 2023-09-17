@@ -15,7 +15,7 @@ from __future__ import print_function    # (at top of module)
 # Copyright:   (c) Farn Wang
 # Licence:     <your licence>
 # -------------------------------------------------------------------------------
-
+print("Test from SBK6401")
 import time
 import cv2
 import random
